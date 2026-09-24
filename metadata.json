@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Remix DataMind AI - Business Data Analyst",
+  "description": "AI-powered business data analyst for CSV and Excel datasets with natural language insights, automatic schema understanding, and interactive Plotly visualizations.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
